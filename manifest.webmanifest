@@ -1,0 +1,11 @@
+{
+  "name":"De Mendigo a Emperador — Crónicas del Barro",
+  "short_name":"Mendigo Emperador",
+  "description":"Un incremental medieval: del barro a la corona",
+  "start_url":"./index.html",
+  "scope":"./",
+  "display":"standalone",
+  "background_color":"#111f23",
+  "theme_color":"#182a2c",
+  "icons":[{"src":"./assets/icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]
+}
